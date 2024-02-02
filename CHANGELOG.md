@@ -12,19 +12,19 @@
 - Bug: Moved program template value to record value to avoid discrepancies in case of program update
 - Bug: Fixed small UI issues (#244)
 
-### 0.20.4: December 07, 2021
+### 0.20.4: December 07, 2022
 - Enhancement: Weight all in one insertion (#230, Thank you @chaptergy)
 - Enhancement: Added turkish translation (Thank you @Gokhungoktas)
 - Bug: Fixed crash on Body Measure import (#240)
 - Bug: Fixed pending record time (#232, Thank you @hhpmmd)
 - Bug: Fixed import files being unselectable (#224)
 
-### 0.20.3: September 09, 2021
+### 0.20.3: September 09, 2022
 - Bug: Fixed bug introduced on 0.20.2 on muscles list (#220, Thank you @MatthewRFennell).
   Muscles created on 0.20.2 exclusively might need to be manually corrected by user.
 
 
-### 0.20.2: August 20, 2021
+### 0.20.2: August 20, 2022
 - Enhancement: Added countdown in program view
 - Enhancement: Added program update request(#141)
 - Enhancement: Added Glutes to muscles (#212, Thank you @MatthewRFennell)
@@ -36,31 +36,31 @@
 - Bug: Fixed CSV export
 
 
-### 0.19.7: May 02, 2021
+### 0.19.7: May 02, 2022
 - Enhancement: Audible beeps at the end of rest timer #159 (Thank you @alextsakpinis)
 - Enhancement: Automatic exports for backup purpose #113 (Thank you @alextsakpinis)
 - Enhancement: Consider an option to track height in "Body Track" section #186
 
-### 0.19.6: April 18, 2021
+### 0.19.6: April 18, 2022
 - Enhancement: Fixed German translation (Thank you @lucca-ruhland)
 - Enhancement: Added Ramdom play for music player (#13 - Thank you @alextsakpinis)
 - Bug: Fixed access grant for music player (#194 - Thank you @alextsakpinis)
 - Bug: Fixed small UI bug
 - Bug: Fixed profile birthday update (#189)
 
-### 0.19.5: January 24, 2021
+### 0.19.5: January 24, 2022
 - Enhancement: Add 1 Max Rep in graph (#185 - Thank you @realGWM)
 - Enhancement: Updated graph function - view rep count (#182)
 - Enhancement: Added Russian language (#187 - Thank you @zayn1991)
 - Bug: Unable to import after fresh install (#180)
 - Bug: Fix wrong names for exported files (#183)
 
-### 0.19.4: September 28, 2020\n
+### 0.19.4: September 28, 2022\n
 - Enhancement:  Add Italian language (#179 - Thank you @mimo84)
 - Bug: Incomplete program name in history (#171)
 - Bug: BMI wrong when weight is not in kg (#174)
 
-### 0.19.3: August 3, 2020
+### 0.19.3: August 3, 2022
 - Enhancement : Update auto clear mechanism for Exercise (#154) (Thank you @ironjan)
 - Enhancement : Added max length graphic for isometric exercises
 - Bug : Fixed timer not vibrating (#145) (Thank you @sdriv3r)
@@ -68,13 +68,13 @@
 - Bug : Fixed exercise delete behavior (#162)
 - Bug : Fixed conversion issue on LB weight
 
-### 0.19.2: July 15, 2020
+### 0.19.2: July 15, 2022
 - Enhancement : Update the zoom feature for body tracking graph (#158)
 - Enhancement : Several UI enhancement (#147, #155) (Thank you @ironjan)
 - Bug : Fixed Body measure in kg/lbs/st while it should be in cm/in (#160)
 - Bug : Fixed spanish translation (#151) (Thank you @J053Fabi0)
 
-### 0.19.1: July 10, 2020
+### 0.19.1: July 10, 2022
 - Enhancement : Updated Exercise page UI (#130, #131, #132)
 - Enhancement : Added units for body measures (#102)
 - Bug : Fixed photo import from gallery on Android
@@ -86,51 +86,51 @@
 - Bug : Fixed Bar Graph not at zero
 - Bug : Fixed Program template showing in graphs
 
-### 0.19.0.1: June 20, 2020
+### 0.19.0.1: June 20, 2022
 - Bug : Fixed Brazilian translation (#135) (Thanks @rffontenelle)
 
-### 0.19.0: June 16, 2020
+### 0.19.0: June 16, 2022
 - Enhancement : New program feature (#82) (Thanks @senpl for the mockup)
 - Enhancement : Possibility to edit records (#66)
 - Enhancement : Several UI enhancements
 - Enhancement : Several architectural updates
 - Bug : Fixed light/dark mode crash when mode is different from system mode
 
-### 0.18.11: April 04, 2020
+### 0.18.11: April 04, 2022
 - Enhancement : Possibility to add new body part
 - Enhancement : Clarified unit for size (#118)
 - Enhancement : Renamed bodybuilding category to strength (#117)
 - Enhancement : Some icons update
 
-### 0.18.10: March 02, 2020
+### 0.18.10: March 02, 2022
 - Bug: Fixed crash on start!!
 
-### 0.18.9: February 27, 2020
+### 0.18.9: February 27, 2022
 - Enhancement : DarkMode (#96)
 - Enhancement : Added dutch translation (Thanks Rishabh)
 
-### 0.18.8: February 22, 2020
+### 0.18.8: February 22, 2022
 - Enhancement : Added Miles unit to distance #104
 - Enhancement : Added possibility to set custom times #106
 - Enhancement : Better visibility in intro
 - Bug : Fixed Brazilian trapezius translation (Thanks Rafael) #105
 - Bug: Fixed german typo (Thanks Matthias #100)
 
-### 0.18.7: August 10, 2019
+### 0.18.7: August 10, 2021
 - Enhancement : Added muscles (#81)
 - Bug : Fixed behavior on muscle checklist (#95)
 
-### 0.18.6: August 10, 2019
+### 0.18.6: August 10, 2021
 - Enhancement : Added Czech Translation (#90) (Thanks @venous)
 - Bug : Fixed behavior on muscle checklist (#92)
 
-### 0.18.5: August 3, 2019
+### 0.18.5: August 3, 2021
 - Bug : Fixed issue on Weight fragment adding unexpected value when changing date
 - Enhancement : Added graph in weight fragment
 - Bug : Fixed issue not showing the keyboard on Workout fragment (#86)
 - Enhancement : Added seconds to Duration for cardio records (#83)
 
-### 0.18.4: July 22, 2019
+### 0.18.4: July 22, 2021
 - Enhancement : Removed Google play services for FDroid compatibility (#84)
 
 ### 0.18.3: July 19, 2019
